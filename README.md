@@ -54,3 +54,6 @@ use_frameworks!
 
 pod 'OAuthSwiftAlamofire'
 ```
+
+### LICENSE
+OAuthSwiftAlamofire is released under the MIT license. See [LICENSE](https://github.com/OAuthSwift/OAuthSwiftAlamofire/blob/master/LICENSE) for details.
